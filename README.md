@@ -17,10 +17,6 @@ As funcionalidades principais do projeto a partir do código e da estrutura do p
 
 > **STAKEHOLDERS**: O projeto diferencia entre dois tipos de usuários: Administrador e Leitor. Dependendo do tipo de usuário, diferentes funcionalidades podem estar disponíveis...
 
-### Diagrama das Classes  
-
-![alt text](<Blank diagram.png>)
-
 ## Informações
 
 Esse projeto foi desenvolvido em linguagem Java para a disciplina de **Programação Orientada à Objetos** do Curso Ciência da Computação da Universidade Federal do Cariri.
